@@ -1,0 +1,1 @@
+npm i unique-number-generator-math
